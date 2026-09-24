@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/zRokoko/Original Content/01_PROJECTS/230313_RokokoHardwareWebinar/07_Unreal/Paragon_Retarget/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"F:/zRokoko/Original Content/01_PROJECTS/230313_RokokoHardwareWebinar/07_Unreal/Paragon_Retarget/Content/Main.umap",
+				"F:/zRokoko/Original Content/01_PROJECTS/230313_RokokoHardwareWebinar/07_Unreal/Paragon_Retarget/Content/KALLARI_IK_RIG.uasset",
+				"F:/zRokoko/Original Content/01_PROJECTS/230313_RokokoHardwareWebinar/07_Unreal/Paragon_Retarget/Content/MOCAP_IK_RIG.uasset",
+				"F:/zRokoko/Original Content/01_PROJECTS/230313_RokokoHardwareWebinar/07_Unreal/Paragon_Retarget/Content/MOCAP/Climb_for_View_mixamo.uasset",
+				"F:/zRokoko/Original Content/01_PROJECTS/230313_RokokoHardwareWebinar/07_Unreal/Paragon_Retarget/Content/MOCAP/Climb_for_View_mixamo_Skeleton.uasset",
+				"F:/zRokoko/Original Content/01_PROJECTS/230313_RokokoHardwareWebinar/07_Unreal/Paragon_Retarget/Content/MOCAP/Climb_for_View_mixamo_PhysicsAsset.uasset",
+				"F:/zRokoko/Original Content/01_PROJECTS/230313_RokokoHardwareWebinar/07_Unreal/Paragon_Retarget/Content/MOCAP/Climb_for_View_mixamo_Anim.uasset",
+				"F:/zRokoko/Original Content/01_PROJECTS/230313_RokokoHardwareWebinar/07_Unreal/Paragon_Retarget/Content/YIN_IK_RIG.uasset",
+				"F:/zRokoko/Original Content/01_PROJECTS/230313_RokokoHardwareWebinar/07_Unreal/Paragon_Retarget/Content/TRANSPARENT.uasset",
+				"F:/zRokoko/Original Content/01_PROJECTS/230313_RokokoHardwareWebinar/07_Unreal/Paragon_Retarget/Content/NewIKRetargeter.uasset",
+				"F:/zRokoko/Original Content/01_PROJECTS/230313_RokokoHardwareWebinar/07_Unreal/Paragon_Retarget/Content/MORIGESH_IK_RIG.uasset",
+				"F:/zRokoko/Original Content/01_PROJECTS/230313_RokokoHardwareWebinar/07_Unreal/Paragon_Retarget/Content/NewIKRetargeter.uasset",
+				"F:/zRokoko/Original Content/01_PROJECTS/230313_RokokoHardwareWebinar/07_Unreal/Paragon_Retarget/Content/NewIKRetargeter1.uasset"
+			]
+		}
+	]
+}
